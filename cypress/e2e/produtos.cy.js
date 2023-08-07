@@ -4,7 +4,7 @@ import { faker } from '@faker-js/faker';
 describe('Funcionalidade Página de Produtos', () => {
     beforeEach(() => {
         cy.viewport(1280, 720)
-        cy.visit('http://lojaebac.ebaconline.art.br/produtos/')
+        cy.visit('produtos')
     });
     afterEach(() => {
         cy.screenshot()
