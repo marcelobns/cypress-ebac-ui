@@ -1,0 +1,28 @@
+[
+    {
+        "nome": "Fernando",
+        "sobrenome": "Costa",
+        "empresa": "Empresa A",
+        "pais": "Brasil",
+        "endereco1": "Rua 42",
+        "endereco2": "Avenida 23",
+        "cidade": "Rio de Janeiro",
+        "estado": "Rio de Janeiro",
+        "cep": "12345-678",
+        "telefone": "1234-5678",
+        "email": "fernando@emailteste.com"
+    },
+    {
+        "nome": "Luciana",
+        "sobrenome": "Moraes",
+        "empresa": "Empresa B",
+        "pais": "Brasil",
+        "endereco1": "Rua 14",
+        "endereco2": "Avenida 56",
+        "cidade": "Salvador",
+        "estado": "Bahia",
+        "cep": "23456-789",
+        "telefone": "5678-1234",
+        "email": "luciana@emailteste.com"
+    }
+]
